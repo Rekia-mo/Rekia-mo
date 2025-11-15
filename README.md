@@ -10,13 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Clean+Code;UI+%2B+Backend+Builder+" />
 </p>
 
-<br/>
+
 
 ## 🖤 About Me
 I build fast and clean full-stack applications with a focus on smooth UI and efficient backend logic. I’m always learning, improving, and pushing my work to the next level.
 
 
-<br/>
+
 
 ## 🛠️ Tech Stack
 
@@ -35,13 +35,13 @@ I build fast and clean full-stack applications with a focus on smooth UI and eff
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
 
-<br/>
+
 
 ## 📫 Contact
 **Email:** [rmansourouahchia@gmail.com](rmansourouahchia@gmail.com)         
 **LinkedIn:**  [https://www.linkedin.com/in/rekia-mansour-ouahchia](https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/)
 
-<br/>
+
 
 <p align="center">
   <sub>⚡Clean. Powerful.</sub>
