@@ -28,8 +28,6 @@ Currently working on improving my backend, UI/UX design, and building profession
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Rekia-mo&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekia-mo&layout=compact&theme=tokyonight)
 
 ---
@@ -37,4 +35,4 @@ Currently working on improving my backend, UI/UX design, and building profession
 ## 🌐 Connect with Me
 
 📩 **Email:** rmansourouahchia@gmail.com  
-🔗 **LinkedIn:** [(](https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/))
+🔗 **LinkedIn:** [(https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/)](https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/))
