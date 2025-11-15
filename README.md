@@ -1,42 +1,44 @@
 <!-- Dark Minimalist GitHub Profile - Rekia-mo -->
 
-<h1 align="center">👋 Hi, I'm Rekia</h1>
-
+<!-- Banner -->
 <p align="center">
-  <strong>Full-Stack Developer</strong> — I build clean, fast, and modern web applications.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Rekia-mo&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Clean+Code+Enthusiast;UI+%2B+Backend+Builder;Always+Learning+" />
 </p>
 
 <br/>
-
 ## 🖤 About Me
-- I focus on creating smooth user experiences using modern tools.  
-- I enjoy building responsive UIs and powerful backend systems.  
-- Always learning, improving, and pushing my skills to the next level.
+I build fast and clean full-stack applications with a focus on smooth UI and efficient backend logic. I’m always learning, improving, and pushing my work to the next level.
+
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Neon)
 
-### Frontend
+### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
 </p>
 
-### Backend
+### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 </p>
 
-### Tools & Others
+### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
 
 <br/>
 
 ## 📫 Contact
-**Email:** rmansourouahchia@gmail.com  
-**LinkedIn:** [https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/](https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/))  
+**Email:** your-email  
+**LinkedIn:** your-link  
 
 <br/>
 
