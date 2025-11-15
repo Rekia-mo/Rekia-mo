@@ -1,38 +1,45 @@
-## 👋 Hi, I'm Rekia — Full-Stack Developer
+<!-- Dark Minimalist GitHub Profile - Rekia-mo -->
 
-I build clean, modern, and scalable web applications using  
-**React, TailwindCSS, Node.js, Express, and MongoDB**.
+<h1 align="center">👋 Hi, I'm Rekia</h1>
 
-I focus on writing clean code, building smooth UI, and creating real-world full-stack projects that solve problems.  
-Currently working on improving my backend, UI/UX design, and building professional dashboards.
+<p align="center">
+  <strong>Full-Stack Developer</strong> — I build clean, fast, and modern web applications.
+</p>
 
----
+<br/>
 
-## 🚀 Tech Stack
+## 🖤 About Me
+- I focus on creating smooth user experiences using modern tools.  
+- I enjoy building responsive UIs and powerful backend systems.  
+- Always learning, improving, and pushing my skills to the next level.
 
-### **Frontend**
-- HTML • CSS • JavaScript (ES6+)
-- React • TailwindCSS
-- Responsive Design • UI Components • Animations
+<br/>
 
-### **Backend**
-- Node.js • Express
-- REST APIs • MongoDB • Mongoose
+## 🛠️ Tech Stack
 
-### **Tools**
-- Git • GitHub  
-- Postman  
-- Vite • npm  
-- Figma (UI/UX)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
----
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-## 📊 GitHub Stats
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekia-mo&layout=compact&theme=tokyonight)
+### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
----
+<br/>
 
-## 🌐 Connect with Me
+## 📫 Contact
+**Email:** rmansourouahchia@gmail.com  
+**LinkedIn:** [https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/](https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/))  
 
-📩 **Email:** rmansourouahchia@gmail.com  
-🔗 **LinkedIn:** [(https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/)](https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/))
+<br/>
+
+<p align="center">
+  <sub>⚡ Minimalist. Clean. Powerful.</sub>
+</p>
