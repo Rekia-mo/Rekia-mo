@@ -39,7 +39,7 @@ I build fast and clean full-stack applications with a focus on smooth UI and eff
 
 ## 📫 Contact
 **Email:** [rmansourouahchia@gmail.com](rmansourouahchia@gmail.com)         
-**LinkedIn:**  [[https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/](https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/)] 
+**LinkedIn:**  [https://www.linkedin.com/in/rekia-mansour-ouahchia](https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/)
 
 <br/>
 
