@@ -18,7 +18,7 @@ I build fast and clean full-stack applications with a focus on smooth UI and eff
 
 <br/>
 
-## 🛠️ Tech Stack (Neon)
+## 🛠️ Tech Stack
 
 ### **Frontend**
 <p>
@@ -38,7 +38,7 @@ I build fast and clean full-stack applications with a focus on smooth UI and eff
 <br/>
 
 ## 📫 Contact
-**Email:** [rmansourouahchia@gmail.com](rmansourouahchia@gmail.com) 
+**Email:** [rmansourouahchia@gmail.com](rmansourouahchia@gmail.com)         
 **LinkedIn:**  [[https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/](https://www.linkedin.com/in/rekia-mansour-ouahchia-810bb82b4/)] 
 
 <br/>
