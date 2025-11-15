@@ -11,8 +11,8 @@
 </p>
 
 <br/>
+
 ## 🖤 About Me
-<br/>
 I build fast and clean full-stack applications with a focus on smooth UI and efficient backend logic. I’m always learning, improving, and pushing my work to the next level.
 
 
