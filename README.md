@@ -27,7 +27,7 @@ I build fast and clean full-stack applications with a focus on smooth UI and eff
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,fastapi,sequelize&theme=dark" />
 </p>
 
 ### **Tools**
